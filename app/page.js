@@ -6,7 +6,7 @@ import logo from '../public/logo.png'
 import Image from 'next/image'
 import Hero from './components/hero';
 import AboutMe from './components/AboutMe';
-// import Experience from './components/Experience';
+import Experience from './components/Experience';
 import Project from './components/Project';
 import { useDispatch } from 'react-redux';
 import Header from './components/header'
@@ -108,9 +108,9 @@ export default function Home() {
       <div ref={projectRef}>
         <Project />
       </div>
-      {/* <div ref={expRef}> 
+      <div ref={expRef}> 
         <Experience />
-      </div> */}
+      </div>
       <div ref={contactRef}> 
         <ContactUs />
       </div>
