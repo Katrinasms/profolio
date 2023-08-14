@@ -4,7 +4,8 @@ import { ThemeProvider } from "next-themes"
 
 export default function Providers({children}){
     return(
-        <ThemeProvider attribute="class">
+        // <ThemeProvider attribute="class"></ThemeProvider>
+        <ThemeProvider>
             {children}
         </ThemeProvider>
     )
