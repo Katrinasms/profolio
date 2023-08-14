@@ -26,7 +26,8 @@ const Hero = () => {
         style={{ fontSize: '2em' }}
       /> */}
       </div>
-      <div className='dark col-span-6 md:col-span-3 md:mt-10 place-self-center slider-content-right'>
+      <div className=' col-span-6 md:col-span-3 md:mt-10 place-self-center slider-content-right'>
+        {/* dark */}
       <Image
           src={logo}
           alt="Picture of the author"

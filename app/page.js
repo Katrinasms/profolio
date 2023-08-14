@@ -115,7 +115,7 @@ export default function Home() {
         <ContactUs />
       </div>
       {/* <NewTrial /> */}
-      
+      {/* <ThemeSwitcher /> */}
     </>
   )
 }

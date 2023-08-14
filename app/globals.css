@@ -19,7 +19,7 @@
   } */
 
   /* body{
-    @apply bg-gradient-to-b from-primary1 to-gray-100 text-secondary2 dark:from-gray-900 dark:to-gray-800 dark:text-primary1;
+    @apply bg-gradient-to-b from-primary1 to-gray-100 text-secondary2 dark:from-gray-900 dark:to-gray-800 :text-primary1;
   } */
 }
 

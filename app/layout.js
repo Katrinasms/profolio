@@ -22,9 +22,10 @@ export default function RootLayout({ children }) {
     
      
       
-       <Providers> 
+       {/* <Providers>  */}
        
-        {children}</Providers>
+        {children}
+        {/* </Providers> */}
       <Footer />
 
       </body>
