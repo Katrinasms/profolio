@@ -9,7 +9,7 @@ const Hero = () => {
       // 
     <div className="grid grid-cols-6 gap-2 min-h-screen  text-center  md:p-24 md:mx-20   content-normal">
       <div className='slider-content col-span-6 md:col-span-3 mt-20 place-self-center -translate-y-6 transform-gpu'>
-        <p className='text-4xl sm:text-6xl'>Hi, I'm Katrina.</p>
+        <p className='text-4xl sm:text-6xl'>Hi, Im Katrina.</p>
         
         <p className='text-2xl sm:text-4xl'>Software Developer</p>
         {/* <TypeAnimation
